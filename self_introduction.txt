@@ -1,0 +1,13 @@
+self introduction:
+Hi, I'm Prathibha — I'm a Python Developer and AI/ML Engineer, and I just finished my B.Tech. in Computer Science with a specialization in AI from MJR College, 
+Bengaluru, with an 8.5 CGPA.Over the last few months, I interned at Algonex IT Solutions, where I worked across three live AI projects — building MySQL-backed 
+data pipelines, writing optimized queries with CTEs and stored procedures, and shipping production Python modules that processed over 10,000 records. One of the 
+things I'm proud of is cutting data processing time by 30% just by automating extraction with triggers instead of manual scripts.Outside my internship, I've built
+two end-to-end products on my own. The first is a rental price prediction engine for Bangalore real estate — I trained and benchmarked regression models across 11
+real datasets, hit an R² of 0.88, and deployed it as a live Streamlit app serving real-time predictions. The second is a full event management platform built with 
+FastAPI and Supabase, where I ran real user interviews to define features and shipped it to production on Vercel with zero critical bugs.What I bring is the full
+lifecycle — from EDA and feature engineering to model deployment and talking to actual users — not just notebook work. I'm looking for a role where I can keep 
+doing that: building real, shipped systems, not just prototypes.
+
+
+
